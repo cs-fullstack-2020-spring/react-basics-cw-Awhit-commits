@@ -1,5 +1,6 @@
 # React Basics CW
-
+#### Check out my comments in your cw-app>App.js and cw-app>hulu.js files
+#### Score : 4/5
 Create a new react app
 
 Create a new Hulu Component
